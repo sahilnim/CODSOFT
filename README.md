@@ -6,6 +6,6 @@ TASK 2 :- STUDENT GRADE CALCULATOR USING JAVA
 
 I have completed my second task assigned to me as per the requirements given i has created an student grade calculator that calculates total marks, average percentage and grade just by taking inputs like total number of subjects and marks scored in each subject respectively.
 
-TASK 2 :- ATM INTERFACE USING JAVA
+TASK 3 :- ATM INTERFACE USING JAVA
 
 I have completed my third task assigned to me as per the requirements given i had to create an atm interface for the ATM that could allow end-users to withdraw certain amount, deposit money into their account and simultaneously check the total amount of balance in their account.
