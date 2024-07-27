@@ -9,3 +9,7 @@ I have completed my second task assigned to me as per the requirements given i h
 TASK 3 :- ATM INTERFACE USING JAVA
 
 I have completed my third task assigned to me as per the requirements given i had to create an atm interface for the ATM that could allow end-users to withdraw certain amount, deposit money into their account and simultaneously check the total amount of balance in their account.
+
+TASK 4 :-  STUDENT MANAGEMENT SYSTEM USING JAVA
+
+I have completed my fourth task assigned to me as per the requirements given i had to create a comprehensive Student Management System  to manage a collection of students, including methods like Add a student, Remove a student, Search for a student, Display records of all students. It is basically a console-based interface that implements functionality to read from and write to a storage medium, such as files or a database, ensuring persistent data storage.
